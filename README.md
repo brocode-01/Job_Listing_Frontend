@@ -80,7 +80,7 @@ cd job-listings-frontend
 npm install
 
 # Backend dependencies
-cd ../JobHuntPro-Job-Listing-Backend
+cd Job-Listing-Backend
 npm install
 ```
 
