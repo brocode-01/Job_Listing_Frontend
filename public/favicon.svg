@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" rx="6" fill="#1e293b"/>
+  
+  <!-- Building Icon -->
+  <path d="M8 24V10C8 9.44772 8.44772 9 9 9H15V24H8Z" fill="#60A5FA"/>
+  <path d="M17 24V6C17 5.44772 17.4477 5 18 5H23C23.5523 5 24 5.44772 24 6V24H17Z" fill="#60A5FA"/>
+  
+  <!-- Windows -->
+  <rect x="10" y="12" width="3" height="3" rx="0.5" fill="#1e293b"/>
+  <rect x="10" y="16" width="3" height="3" rx="0.5" fill="#1e293b"/>
+  <rect x="19" y="8" width="3" height="3" rx="0.5" fill="#1e293b"/>
+  <rect x="19" y="12" width="3" height="3" rx="0.5" fill="#1e293b"/>
+  <rect x="19" y="16" width="3" height="3" rx="0.5" fill="#1e293b"/>
+  
+  <!-- Base -->
+  <rect x="6" y="24" width="20" height="3" rx="1" fill="#60A5FA"/>
+</svg> 
